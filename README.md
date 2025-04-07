@@ -5,7 +5,7 @@ This is a simple web application made with RAG for building an JAX assistant usi
 
 
 
-https://github.com/user-attachments/assets/32bd5556-9372-42a1-93ea-95dcb62a041c
+https://github.com/user-attachments/assets/ac2ce9ed-eb37-4dfb-ba35-2dc14c476c14
 
 
 
